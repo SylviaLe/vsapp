@@ -20,7 +20,7 @@ namespace vsapp
 
         }
 
-        public void Delete(movie movie
+        public void Delete(movie movie)
         {
 
         }
